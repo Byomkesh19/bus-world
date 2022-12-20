@@ -14,4 +14,4 @@ busOwner adds all the buses as per his need and can update whether it is in runn
 The bus location will keep on getting refreshed and location can be auto -calculated based on the bus' avg speed of running or other direct check in some cases.
 The customer can update his/her location by providing input by himself and if not able to, then to access his location from the device and view the buses around him.
 As a scalable code we can later also enable features to let the BusOwner or driver know that a customer is waiting for the bus.
-The application can be launched from LaunchAppJava class in the com.deewana.busworldv package.
+The application can be launched from LaunchAppJava class in the com.deewana.busworld package.
